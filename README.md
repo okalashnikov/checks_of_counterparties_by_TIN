@@ -1,5 +1,4 @@
-### Проверка списка ИНН контрагентов 
----
+### _Проверка списка ИНН контрагентов_ 
 
 #### Краткое описание разработки
 
@@ -14,7 +13,7 @@
 
 #### Требования:
 - python 3.x
-- webdriver [https://chromedriver.chromium.org/downloads]
+- webdriver https://chromedriver.chromium.org/downloads
 - openpyxl
 - datetime
 

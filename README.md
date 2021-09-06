@@ -13,7 +13,7 @@
 
 #### Требования:
 - python 3.x
-- webdriver [Скачать] (https://chromedriver.chromium.org/downloads)
+- webdriver [Скачать] [https://chromedriver.chromium.org/downloads]
 - openpyxl
 - datetime
 
